@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="col_home">3</integer>
+    <integer name="col_away">4</integer>
+    <integer name="col_home_goals">6</integer>
+    <integer name="col_away_goals">7</integer>
+    <integer name="col_date">1</integer>
+    <integer name="col_league">5</integer>
+    <integer name="col_matchday">9</integer>
+    <integer name="col_id">8</integer>
+    <integer name="col_matchtime">2</integer>
+    <integer name="detail_match_id">0</integer>
+
+
+
+</resources>
